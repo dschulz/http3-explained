@@ -9,7 +9,7 @@
 * [Proceso](proc.md)
   * [IETF](proc-ietf.md)
   * [Experiencia de HTTP/2](proc-h2.md)
-  * [Estatus](proc-status.md)
+  * [Estado](proc-status.md)
 * [Características del protocolo](the-protocol.md)
   * [UDP](feature-udp.md)
   * [Confiable](feature-reliable.md)
